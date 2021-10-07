@@ -17,5 +17,5 @@ Setup:
 
 How To Use:
 
-1. Write Your Code In GMLIB.gml file
+1. Work On Your Code In GMLIB.gml file
 2. Right Click On UPDATE.ps1 file and choose "Run with Powershell"
