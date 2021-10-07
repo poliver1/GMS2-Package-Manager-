@@ -24,4 +24,4 @@ Setup:
 How To Use:
 
 1. Work On Your Code In GMLIB.gml file
-2. Right Click On UPDATE.ps1 file and choose "Run with Powershell" to distribute code across all the project
+2. Right Click On UPDATE.ps1 file and choose "Run with Powershell" to distribute code across all the projects
