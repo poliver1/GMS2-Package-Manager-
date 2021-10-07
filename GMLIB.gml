@@ -1,3 +1,1 @@
-function addTwoNumbers(number, number) {
-    return number + number;
-}
+//YOUR CODE GOES HERE
