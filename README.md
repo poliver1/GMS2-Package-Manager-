@@ -1,7 +1,7 @@
 # GMS2 "Package Manager" (PowerShell Script, Windows Only)
 GameMaker Studio 2 "Package Manager"
 
-Edit your most used functions in one single file and automatically distribute/update it across all your projects.
+Keep and edit your most used functions in one single file and automatically distribute/update it across all your projects.
 No need for copy pasting snippets and/or importing exporting packages.
 
 
