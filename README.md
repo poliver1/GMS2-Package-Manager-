@@ -10,7 +10,7 @@ No need for copy pasting snippets and/or importing exporting packages.
 Setup:
 
 1. Open UPDATE.ps1 file in any plain text/code editor
-2. Find line $projects_folder = "C:\Users\kewne\Documents\GameMakerStudio2" and replace the filepath to your own GMS2 projects folder
+2. Find line $projects_folder = "C:\Users\kewne\Documents\GameMakerStudio2" and replace the filepath to point to your own GMS2 projects folder
 
 
 
