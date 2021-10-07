@@ -36,9 +36,9 @@ foreach ($project in $projects) {
     $entry = Select-String -Path $yyp_file -Pattern $resource
     if ($entry -eq $null) {
         #adding the resource
-[LIST]
-[*]        $NewContent = Get-Content -Path $yyp_file |
-[/LIST]
+
+        $NewContent = Get-Content -Path $yyp_file |
+
         ForEach-Object {
             $_
             if($_ -match ('^' + [regex]::Escape('  "resources": ['))) {
